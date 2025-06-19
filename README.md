@@ -1,10 +1,3 @@
-Perfect! Here's a customized `README.md` for your GitHub repository: [**FaceMask-Detection-With-percentage**](https://github.com/pamd005/FaceMask-Detection-With-percentage). This version includes details tailored to the **mask detection with percentage confidence** aspect.
-
----
-
-### ✅ Final `README.md` for Your Repo
-
-````markdown
 # 😷 FaceMask Detection with Percentage Confidence
 
 A deep learning-based project that detects whether a person is wearing a face mask and shows the **confidence percentage** using OpenCV and TensorFlow/Keras. Built using Python and Jupyter Notebook.
