@@ -97,17 +97,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 👤 Developed by [**@pamd005**](https://github.com/pamd005)
-
-```
-
----
-
-### Optional Extras (let me know if you want these):
-
-- `requirements.txt` generation
-- Sample output image
-- Badge icons (stars, forks, license)
-- Streamlit or Flask web interface
-
-Would you like this README saved and uploaded to your repo automatically?
-```
